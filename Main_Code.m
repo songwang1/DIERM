@@ -6,7 +6,7 @@
 
 clc; clear all; 
 %% 1. Configuration and Data Initialization
-site_n = 369;
+site_n = 366;
 monthDays = [31 28 31 30 31 30 31 31 30 31 30 31];
 filelist = dir('D:\BaiduSyncdisk\FLUX_DATA\*.csv');
 plot_p = 0; % Plot flag for fitting functions
@@ -210,3 +210,4 @@ end
 
 
 fprintf('Processing complete.\n');
+
