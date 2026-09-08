@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+h5py
+netCDF4
+matplotlib
+statsmodels
+Pillow
